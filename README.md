@@ -4,7 +4,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nicolycosta&layout=compact)](https://github.com/nicolycosta/nicolycosta)
 
-![nicolycosta GitHub stats](https://github-readme-stats.vercel.app/api?username=nicolycosta&show_icons=true&theme=onedark)
+![nicolycosta GitHub stats](https://github-readme-stats.vercel.app/api?username=nicolycosta&show_icons=true&theme=radical)
 
 
 
