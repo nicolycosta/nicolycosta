@@ -5,8 +5,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nicolycosta&layout=compact)](https://github.com/nicolycosta/nicolycosta)
 
-![nicolycosta GitHub stats](https://github-readme-stats.vercel.app/api?username=nicolycosta&show_icons=true&theme=radical)
-
 ## Tecnologias que eu uso no meu dia
 
 <div style="display: inline_block"><br/>
@@ -15,6 +13,9 @@
   <img align="center" alt="html5" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
   <img align="center" alt="html5" src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white" />
 </div>  
+
+
+![nicolycosta GitHub stats](https://github-readme-stats.vercel.app/api?username=nicolycosta&show_icons=true&theme=radical)
 
 
 
