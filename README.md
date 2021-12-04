@@ -3,9 +3,12 @@
 [![Blog](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nicolyrodrigues1111@gmail.com)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nicolycosta&layout=compact)](https://github.com/nicolycosta/nicolycosta)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nicolycosta&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+
 ## Tecnologias que eu uso no meu dia
 
 <div style="display: inline_block"><br/>
